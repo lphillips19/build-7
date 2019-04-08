@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "chess build 7 (everything done!!).data.unityweb",
+"asmCodeUrl": "chess build 7 (everything done!!).asm.code.unityweb",
+"asmMemoryUrl": "chess build 7 (everything done!!).asm.memory.unityweb",
+"asmFrameworkUrl": "chess build 7 (everything done!!).asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
